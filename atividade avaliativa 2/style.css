@@ -1,0 +1,39 @@
+html, body {
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(43, 2, 82);
+    
+
+  }
+
+  body {
+    width: 40%;
+    margin: 0 auto;
+  }
+  
+img{
+
+    width: 70%;
+    margin: 0 auto;
+  }
+
+
+.supernova{
+color: rgb(3, 0, 5);
+text-align: center;
+background-repeat: no-repeat;
+background-position: center top;
+background-attachment: fixed;
+background-size: cover;
+background-color: rgb(250, 250, 250);
+font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+h2{
+color: rgb(24, 21, 26);
+text-justify: auto;
+border: 15;
+margin: 0 0 15px;
+
+
+}
